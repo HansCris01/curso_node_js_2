@@ -97,4 +97,86 @@ escribimos: y
 
    ------  Async/await  ------
 
+  > vamos al archivo: promise.js
+
+  vamos a la linea 23
+
 */
+
+
+/*
+
+  ------- Promisify
+    
+  > vamos al archivo: promise.js
+
+  linea: 39
+
+*/
+
+/*
+
+  ----- fs promises
+
+  > vamos al archivo: promise.js
+
+  linea: 62
+
+
+*/
+
+/*  ------ events
+
+   ir a la carpeta public/index.html
+
+  > vamos a programar, el archivo index.html
+  > comando: npx serve -s public
+
+  _ vamos a crear un archivo: events.js
+  _ vamos a programar ese archivo que va ser el modulo de eventos 
+
+*/
+
+/* 
+    ----- streams
+  > creamos al archivo: streams.js
+  > programas el archivo
+  > ejecutar el archivo con el comando: node streams.js
+*/
+
+
+/*
+   ------ streams vs http
+
+   > vamos a crear el archivo: stream_http.js
+   > vamos a programar el archivo
+    
+*/
+
+
+/*
+   ----- Ecmascript modules
+
+   > vamos al package.json, debajo de "main": "src/app.js", vamos a escribir esto: "type": "module"
+   > vamos a crear el archivo: esmodule.js
+   > vamos a crear nuestra carpeta y archivo: mi_modulos/moduloPersonalizado.js
+   > vamos a programar mi_modulos/moduloPersonalizado.js 
+   > vamos a programar esmodule.js
+*/
+
+
+
+/*  ----- fetch
+   
+   > vamos a crear un archivo: fetch.js
+
+
+*/
+
+/*
+   ------ Express
+   > Vamos a crear un proyecto nodejs3: llamado node-website
+
+*/
+
+

@@ -2,7 +2,8 @@
   "name": "firstnodeproject",
   "version": "0.0.1",
   "description": "Este es mi primer proyectp",
-  "main": "app.js",
+  "main": "src/app.js",
+  "type": "module",
   "scripts": {
     "ejecutar": "node src/app.js",
     "start": "node src/app.js",
